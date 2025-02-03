@@ -18,7 +18,7 @@
 }
 
 body{
-    background-image: url(/img/chat.jpg);
+    background-image: url("../img/chat.jpg");
 
 }
 .quiz-section{
